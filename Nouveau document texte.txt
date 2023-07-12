@@ -1,0 +1,12 @@
+* How does the web work?
+
+_ The browser sends an HTTP request message to the server, asking it to send a copy of the website to the client (you go to the shop and order your goods). This message, and all other data sent between the client and the server, is sent across your internet connection using TCP/IP?.
+
+* What do you need to be a web developer?
+
+_ An aspiring web developer must first complete an education to develop basic coding and programming skills. In most cases, this is a computer science degree program with core courses in systems design, data management, and the essential programming languages used by industry professionals.
+
+* Why did you choose to learn web development?
+
+_ Web development is a fast-paced, challenging career centered on creative problem-solving and continuous innovation. As a web developer you'll work with a multidisciplinary team of designers, other developers, and marketers to realize your projects. Web development was rated in Career Karma's top 25 tech jobs in 2021.
+
